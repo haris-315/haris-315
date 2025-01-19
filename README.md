@@ -57,8 +57,7 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haris-pk&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-pk&theme=radical" alt="GitHub Streak" width="450"/>
-</div>
+ 
 
 ---
 
@@ -76,8 +75,14 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 | Flutter        | MySQL         | REST     |  
 | React          | SQLite        | WebSockets  |  
 | FastAPI        | PostgreSQL    |          |  
+| Kivy           |               |          |  
 
 ---
+
+### 🌐 Languages I Work In
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 **Let's Connect**
 
@@ -85,7 +90,7 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
   <a href="https://linkedin.com/in/haris-pk">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/haris-pk">
+  <a href="https://github.com/haris-315">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
