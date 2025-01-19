@@ -1,5 +1,5 @@
 
-# 💻 **Haris - Full Stack Flutter & Web Developer** 🇵🇰  
+# 💻 **Haris - Full Stack Flutter & Web Developer**  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/77613409/110207614-b2bde200-7e8b-11eb-9648-6e504c0cb9b3.gif" alt="Hello Animation" width="300"/>
@@ -16,7 +16,7 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 ## 💡 **About Me**
 - 🎯 **Goal:** Deliver exceptional user experiences with clean, maintainable, and efficient code.
 - 🌱 **Currently Learning:** Advanced Flutter Animations & Cloud Integration.
-- 📫 **Contact Me:** [haris@example.com](mailto:haris@example.com)  
+- 📫 **Contact Me:** [hkffking@gmail.com](mailto:hkffking@gmail.com)  
 - 🌐 **Portfolio:** [Coming Soon!]
 
 ---
@@ -62,7 +62,6 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 
 ---
 
-## 🎨 **Special Effects**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="800" height="200">
@@ -75,7 +74,7 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 | **Frameworks** | **Databases** | **APIs** |  
 |----------------|---------------|----------|  
 | Flutter        | MySQL         | REST     |  
-| React          | SQLite        | GraphQL  |  
+| React          | SQLite        | WebSockets  |  
 | FastAPI        | PostgreSQL    |          |  
 
 ---
