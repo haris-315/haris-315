@@ -1,6 +1,6 @@
 
 # 💻 **Haris - Full Stack Flutter & Web Developer**  
-
+<div align="right">![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/77613409/110207614-b2bde200-7e8b-11eb-9648-6e504c0cb9b3.gif" alt="Hello Animation" width="300"/>
 </div>
