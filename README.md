@@ -74,7 +74,7 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 | Flutter        | MySQL         | REST     |  
 | React          | SQLite        | WebSockets  |  
 | FastAPI        | PostgreSQL    |          |  
-| Kivy           |               |          |  
+| Kivy           | MongoDB       |          |  
 
 ---
 
