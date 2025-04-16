@@ -55,7 +55,7 @@ I am **Haris**, a passionate **Full Stack Developer** from **Pakistan**. With a 
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haris-pk&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haris-315&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
  
 
 ---
