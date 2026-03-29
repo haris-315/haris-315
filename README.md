@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haris-315&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="38%"/>
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haris-315&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="38%"/>
 
 ### Who I Am
 
@@ -73,8 +73,8 @@ Currently engineering a **voice-assisted mobile agent** — a fully conversation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haris-315&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=haris-315&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=haris-315&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=haris-315&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
 
 </div>
 
