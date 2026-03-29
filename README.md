@@ -3,7 +3,7 @@
 <!-- Typing SVG Header — demolab hosted, always live -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=80&lines=Muhammad+Haris;Senior+Mobile+Engineer;Flutter+%2B+FastAPI+%2B+AI+Agents;Building+things+that+ship.)](https://github.com/haris-315)
 
-<sub>4+ years · 30+ live projects · 2 production servers · Real-time systems & applied AI</sub>
+<sub>4+ years · 10+ live projects · 2 production servers · Real-time systems & applied AI</sub>
 
 <br/>
 
