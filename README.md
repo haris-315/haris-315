@@ -20,7 +20,7 @@
 
 ### Who I Am
 
-I'm a **Senior Mobile & Backend Engineer** who architects, ships, and operates production systems — not just writes code. Currently managing **2 servers running ~30 live projects** while continuing to push the ceiling of what mobile apps can do.
+I'm a **Senior Mobile & Backend & Voice AI Engineer** who architects, ships, and operates production systems — not just writes code.
 
 My work lives at the intersection of **real-time systems**, **clean architecture**, and **applied AI** — voice agents, LLM pipelines, and intelligent workflows embedded as first-class product features.
 
