@@ -54,6 +54,8 @@ Flutter apps, voice AI and the FastAPI backends behind them. I design, build, sh
 
 ## How I work
 
+<a href="https://hariszahid.is-a.dev/#workshop"><img src="assets/workshop.webp" alt="Diagram: a spec fans out to four AI agents; their work passes a verification gate that bounces bad output back, then a pen signs and a phone ships." width="100%"/></a>
+
 <img src="assets/flow.png" alt="The agents write. The machine verifies. I sign. Spec, Agents, Verify, Review, Ship." width="100%"/>
 
 I build with AI agents every day (Claude Code, Codex, Antigravity, MCP servers) and treat them like a very fast team that never gets the final word. The full method is published as [The Production Doctrine](https://hariszahid.is-a.dev/#doctrine).
